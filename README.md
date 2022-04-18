@@ -3,8 +3,6 @@
 [![Version](https://img.shields.io/pypi/pyversions/insta-scrape)](https://www.python.org/downloads/release/python-360/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Dependencies](https://img.shields.io/librariesio/github/chris-greening/instascrape)](https://github.com/d4rkh0rse/reels_downloader/blob/master/requirements.txt)
-[![Issues](https://img.shields.io/github/issues/chris-greening/instascrape?style=flat)](https://github.com/d4rkh0rse/reels_downloader/issues)
-
 
 
 ### Minimum Python version
@@ -21,3 +19,18 @@ git clone https://github.com/d4rkh0rse/reels_downloader.git
 cd d4rkh0rse/
 ./reels_downloder.py
 ~~~
+
+
+License
+=======
+Copyright (C) 2001 
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; version 2
+of the License only.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
