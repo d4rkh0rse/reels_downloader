@@ -1,6 +1,5 @@
 from instascrape import Reel
-import datetime
-import time
+from  datetime import time
 
 '''# session id
 SESSIONID = "Paste session Id Here"
