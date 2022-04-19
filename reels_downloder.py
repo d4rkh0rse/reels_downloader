@@ -64,11 +64,7 @@ def download(video_link):
 
 data = input('Enter reels video link with https: ')
 
-# if 'https://' in data:
-#     print('first',data)
-# else:
-#     data = ''.join(('https://',data))
-#     print('scond',data)
+
 download(data)
 
 # print(demo)
