@@ -17,6 +17,7 @@ Run normally:
 ~~~
 git clone https://github.com/d4rkh0rse/reels_downloader.git
 cd d4rkh0rse/
+pip3 install -r requirements.txt    
 ./reels_downloder.py
 ~~~
 
